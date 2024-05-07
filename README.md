@@ -27,8 +27,10 @@ Please ask here: https://www.facebook.com/groups/195994281887859
 
 ## Bill Of Materials
 Most of the componets can be purchase on Amazon or AliExpress. 
+
 https://docs.google.com/spreadsheets/d/1RUYtAMMg844CDN_oNOtQVQ9Nui_DjjbX51vlC8axlfM/edit?usp=sharing
-Please let me know if something is missing from the BOM.
+
+Please let me know if something is missing from the BOM or you have sourcing questions.
 
 ## 3d Printer Settings
 All parts should be printed with the following settings:
