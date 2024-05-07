@@ -13,9 +13,9 @@ Please ask here: https://www.facebook.com/groups/195994281887859
 
 ## Changes between 1.2 and 1.3
 ### Firmware
-- Max dev. time increased to 90 minutes
-- Changed tanks captions in "Settings" menu
-- Enabled demo mode by default
+- Max dev. time increased to 90 minutes.
+- Changed tanks captions in "Settings" menu.
+- Enabled demo mode by default.
 
 ### Mechanical
 - Main ball bearings are moved on the outside of the constaining bodies and now fixed on both sides.
@@ -35,6 +35,8 @@ Please let me know if something is missing from the BOM or you have sourcing que
 All parts should be printed with the following settings:
 - 0.4mm nozzle
 - 4 perimeters
+- 0.2mm layer height
+- 5 top/bottom shells
 - 60% geroid infill
 - PETG plastic
 - Colors you like
