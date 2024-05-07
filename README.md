@@ -19,6 +19,7 @@ All parts should be printed with the following settings:
 - 60% geroid infill
 - PETG plastic
 - Colors you like
+  
 Please make sure that your printer is calibrated and prints with the hight dimmensional accuracy.
 If rollers do not fit - try to print one by one resizing it by 0.2% increment.
 
@@ -32,5 +33,8 @@ Compile / upload to the board.
 
 If you have binary size issues - make sure that U8G2 library has size optimizations turned on. 
 Check for more here: https://github.com/olikraus/u8g2/wiki/u8g2optimization
+
+## Electronics
+Wire / assembly diagram - WIP.
 
 
