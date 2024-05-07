@@ -12,6 +12,19 @@ I'm trying my best to keep this project alive for the benefit of the Film Photog
 ## Questions?
 Please ask here: https://www.facebook.com/groups/195994281887859
 
+## Changes 1.2 ---> 1.3
+### Firmware
+- Max dev. time increased to 90 minutes
+- Changed tanks captions in "Settings" menu
+- Enabled demo mode by default
+
+### Mechanical
+- Main ball bearings are moved on the outside of the constaining bodies and now fixed on both sides.
+- No need for retaining rings (no lathe work required) - replaced with shaft collars.
+- Increased main case size a little bit for better access.
+- Boards are now easily removable if needed - they are placed on the platform and fixed with 2 screws only.
+- No USB port on a side (may add latter uppon request).
+
 ## Bill Of Materials
 https://docs.google.com/spreadsheets/d/1RUYtAMMg844CDN_oNOtQVQ9Nui_DjjbX51vlC8axlfM/edit?usp=sharing
 
@@ -27,8 +40,6 @@ Please make sure that your printer is calibrated and prints with the hight dimme
 If rollers do not fit - try to print one by one resizing it by 0.2% increment.
 
 ## Firmware
-There are few minor changes compared to v1.2: max dev. time now is 90 minutes, changed tanks captions, enabled demo mode by default.
-
 Put folders / files from the "Firmware/libs" folder into your local Arduino/libraries folder.
 Choose "Arduino Nano" board in Arduino IDE. Sometimes you may need to choose "old bootloader" verstion of the board.
 Open "firmware/aura13.ino" file.
