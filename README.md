@@ -1,15 +1,19 @@
 # AuRA 1.3 Rotary Assist Film Developing Machine
 
-## READ THIS
+## READ THIS FIRST
 This project is the next itteration of the AuRA Film Developing Machine.
 Original machine was introduced on the Kickstarter back in 2021.
 https://www.kickstarter.com/projects/vfalendysh/aura-rotary-assist-film-developing-machine
 
-PLEASE NOTE: Everything provided AS IS, without any warranties, for non-commercial private use only. 
 I'm trying my best to keep this project alive for the benefit of the Film Photography community.
 
-## Manuals
-### Operations Manual
+### PLEASE NOTE: 
+- Everything provided AS IS, without any warranties.
+- Non-commercial private use only. I reserve the right for the commercial destribution and use. 
+- Zero liability - you do it on your own risk. I'm not liable for any demages related to this project.
+- If you continue with this project it means that you read and agree with the above statements.
+
+## Operations Manual
 https://docs.google.com/document/d/11cLEZ-TlUOUsFuLOAkJhnijDMngBIQ9VhE78JiG_ncQ/edit?usp=sharing
 
 ## Questions?
