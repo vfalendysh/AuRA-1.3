@@ -40,10 +40,10 @@ Please make sure that your printer is calibrated and prints with the hight dimme
 If rollers do not fit - try to print one by one resizing it by 0.2% increment.
 
 ## Firmware
-Put folders / files from the "Firmware/libs" folder into your local Arduino/libraries folder.
-Choose "Arduino Nano" board in Arduino IDE. Sometimes you may need to choose "old bootloader" verstion of the board.
-Open "firmware/aura13.ino" file.
-Compile / upload to the board.
+- Put folders / files from the "Firmware/libs" folder into your local Arduino/libraries folder.
+- Choose "Arduino Nano" board in Arduino IDE. Sometimes you may need to choose "old bootloader" verstion of the board.
+- Open "firmware/aura13.ino" file.
+- Compile / upload to the board.
 
 If you have binary size issues - make sure that U8G2 library has size optimizations turned on. 
 Check for more here: https://github.com/olikraus/u8g2/wiki/u8g2optimization
