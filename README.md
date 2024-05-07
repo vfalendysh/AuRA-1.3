@@ -8,6 +8,10 @@ https://www.kickstarter.com/projects/vfalendysh/aura-rotary-assist-film-developi
 PLEASE NOTE: Everything provided AS IS, without any warranties, for non-commercial private use only. 
 I'm trying my best to keep this project alive for the benefit of the Film Photography community.
 
+## Manuals
+### Operations Manual
+https://docs.google.com/document/d/11cLEZ-TlUOUsFuLOAkJhnijDMngBIQ9VhE78JiG_ncQ/edit?usp=sharing
+
 ## Questions?
 Please ask here: https://www.facebook.com/groups/195994281887859
 
