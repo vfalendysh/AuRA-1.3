@@ -1,5 +1,4 @@
-# AuRA-1.3
-## AuRA 1.3 Rotary Assist Film Developing Machine
+# AuRA 1.3 Rotary Assist Film Developing Machine
 
 ### READ THIS
 This project is the next itteration of the AuRA Film Developing Machine.
