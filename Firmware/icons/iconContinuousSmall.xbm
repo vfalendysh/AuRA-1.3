@@ -1,0 +1,4 @@
+#define iconContinuousSmall_width 8
+#define iconContinuousSmall_height 8
+static unsigned char iconContinuousSmall_bits[] = {
+   0x3c, 0xc2, 0xe1, 0x01, 0x01, 0x01, 0x02, 0x3c };
