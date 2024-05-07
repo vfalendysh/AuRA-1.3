@@ -1,6 +1,6 @@
 # AuRA 1.3 Rotary Assist Film Developing Machine
 
-### READ THIS
+## READ THIS
 This project is the next itteration of the AuRA Film Developing Machine.
 Original machine was introduced on the Kickstarter back in 2021.
 https://www.kickstarter.com/projects/vfalendysh/aura-rotary-assist-film-developing-machine
@@ -11,7 +11,7 @@ I'm trying my best to keep this project alive for the benefit of the Film Photog
 ## Questions?
 Please ask here: https://www.facebook.com/groups/195994281887859
 
-## Changes 1.2 ---> 1.3
+## Changes between 1.2 and 1.3
 ### Firmware
 - Max dev. time increased to 90 minutes
 - Changed tanks captions in "Settings" menu
