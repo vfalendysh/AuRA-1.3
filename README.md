@@ -6,6 +6,8 @@ Original machine was introduced on the Kickstarter back in 2021.
 
 https://www.kickstarter.com/projects/vfalendysh/aura-rotary-assist-film-developing-machine
 
+v1.2 review by Alex Luyckx: https://www.youtube.com/watch?v=DZNfe24eHN0
+
 I'm trying my best to keep this project alive for the benefit of the Film Photography community.
 
 ### PLEASE NOTE: 
