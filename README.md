@@ -12,8 +12,8 @@ I'm trying my best to keep this project alive for the benefit of the Film Photog
 
 ### PLEASE NOTE: 
 - Everything provided AS IS, without any warranties.
-- Non-commercial private use only. I reserve the right for the commercial destribution and use. 
-- Zero liability - you do it on your own risk. I'm not liable for any demages related to this project.
+- Non-commercial private use only. I reserve the right for the commercial distribution and use. 
+- Zero liability - you do it at your own risk. I'm not liable for any demages related to this project.
 - If you continue with this project it means that you read and agree with the above statements.
 
 ## Operations Manual
