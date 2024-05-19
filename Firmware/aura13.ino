@@ -856,7 +856,7 @@ void handleMenuSelectActions() {
     
     case MENU_MODE_PRESETS: {
       programmMode = presets[menuPresetsPosition][PRESET_MODE];
-      programmDurationSeconds = presets[menuPresetsPosition][PRESET_MINUTES] * MAX_MINUTES + presets[menuPresetsPosition][PRESET_SECONDS];
+      programmDurationSeconds = presets[menuPresetsPosition][PRESET_MINUTES] * 60 + presets[menuPresetsPosition][PRESET_SECONDS];
       motorSpeedIndex = presets[menuPresetsPosition][PRESET_SPEED];
       if ((settingsTank == TANK_J2500) && (motorSpeedIndex > MOTOR_SPEEDS_COUNT - 3)) motorSpeedIndex = MOTOR_SPEEDS_COUNT - 3; // 50 max
       
@@ -1173,7 +1173,7 @@ void screenPresetsMenu() {
   if ((settingsTank == TANK_J2500) && (spd > MOTOR_SPEEDS_COUNT - 3)) spd = MOTOR_SPEEDS_COUNT - 3; // 50 max
 
   u8g2.print(
-    getTimeFromSeconds(presets[menuPresetsPosition][PRESET_MINUTES] * MAX_MINUTES + presets[menuPresetsPosition][PRESET_SECONDS]) + " " +
+    getTimeFromSeconds(presets[menuPresetsPosition][PRESET_MINUTES] * 60 + presets[menuPresetsPosition][PRESET_SECONDS]) + " " +
     String(motorRPMs[spd]) + "rpm"
   );
 
