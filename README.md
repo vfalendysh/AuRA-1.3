@@ -10,6 +10,9 @@ v1.2 review by Alex Luyckx: https://www.youtube.com/watch?v=DZNfe24eHN0
 
 I'm trying my best to keep this project alive for the benefit of the Film Photography community.
 
+## PURCHASE YOUR AuRA
+https://aurafd.company.site/
+
 ### PLEASE NOTE: 
 - Everything provided AS IS, without any warranties.
 - Non-commercial private use only. I reserve the right for the commercial distribution and use. 
