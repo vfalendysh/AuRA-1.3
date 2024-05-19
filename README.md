@@ -1,7 +1,7 @@
 # AuRA 1.3 Rotary Assist Film Developing Machine
 
 ## READ THIS FIRST
-This project is the next itteration of the AuRA Film Developing Machine.
+This project is the next iteration of the AuRA Film Developing Machine.
 Original machine was introduced on the Kickstarter back in 2021.
 
 https://www.kickstarter.com/projects/vfalendysh/aura-rotary-assist-film-developing-machine
