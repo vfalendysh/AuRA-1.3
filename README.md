@@ -7,9 +7,6 @@ Original machine was introduced on the Kickstarter back in 2021.
 
 https://www.kickstarter.com/projects/vfalendysh/aura-rotary-assist-film-developing-machine
 
-Shared under Attribution-NonCommercial-ShareAlike 4.0 International
-https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
-
 v1.2 review by Alex Luyckx: https://www.youtube.com/watch?v=DZNfe24eHN0
 
 I'm trying my best to keep this project alive for the benefit of the Film Photography community.
@@ -19,6 +16,11 @@ I'm trying my best to keep this project alive for the benefit of the Film Photog
 - Non-commercial private use only. I reserve the right for the commercial distribution and use. 
 - Zero liability - you do it at your own risk. I'm not liable for any damages related to this project.
 - If you continue with this project it means that you read and agree with the above statements.
+
+## LICENSE
+Shared under Attribution-NonCommercial-ShareAlike 4.0 International License
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
 
 ## PURCHASE YOUR AuRA
 https://aurafd.company.site/
