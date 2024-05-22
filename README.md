@@ -25,7 +25,7 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
 ## PURCHASE YOUR AuRA
 https://aurafd.company.site/
 
-## ELECTRONICS ASSEMBLY MANUAL (WIP)
+## Electronics Assembly Manual (WIP)
 https://docs.google.com/document/d/1hErU2MmGirhdWFpWhWet4WLlM-BJHZemsq4ywI-r1ss/edit?usp=sharing
 
 ## Operations Manual
